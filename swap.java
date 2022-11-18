@@ -20,5 +20,6 @@ public class swap {
         System.out.println("--After swap--");
         System.out.println("First number = " + first);
         System.out.println("Second number = " + second);
+        System.out.println("Second number = " + second);
     }
 }
